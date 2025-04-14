@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://r2.fivemanage.com/SVPyt7tsQi4njkYd2eKX6/images/logo_fit.png" align="center" height="100" width="300" />
+<img src="" align="center" height="100" width="300" />
 </div>
 
 ### <div align="center">Welcome to the Vex Framework!</div>
