@@ -23,11 +23,5 @@
 <a href="" target="_blank">
 <img src="https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt=youtube style="margin-bottom: 5px;" />
 </a>
-<a href="" target="_blank">
-<img src="https://img.shields.io/discord/513374574394474531?style=for-the-badge&logo=discord&logoColor=%23fb9b04&logoSize=auto&label=Discord" style="margin-bottom: 5px;" />
-</a>  
-</div>
-
-
 
 <br />
